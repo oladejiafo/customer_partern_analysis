@@ -1,4 +1,5 @@
-## Title: Understanding Customer Patterns: A Customer Data Analysis Project Summary
+## Title: Understanding Customer Patterns: 
+A Customer Data Analysis Project Summary
 
 ## Introduction:
 This project aimed to analyze customer data to gain insights into customer patterns and behaviors. The dataset, provided in CSV format, was analyzed using Tableau, a powerful data visualization tool. By leveraging the capabilities of Tableau, we explored various aspects of the data to identify key trends and patterns in customer behavior.
