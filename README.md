@@ -25,7 +25,7 @@ Through clustering techniques, we identified distinct customer segments based on
 The customer data analysis project, conducted using Tableau, offered valuable insights into customer patterns and behaviors. By understanding customer demographics, purchase patterns, and segments, we can make informed decisions regarding marketing strategies, customer targeting, and customer relationship management. These insights will help drive business growth, enhance customer satisfaction, and optimize resource allocation for improved profitability.
 
 ## Dashboard Preview
-![image](https://github.com/oladejiafo/customer_partern_analysis/assets/69392408/040902c4-4280-48c2-a92d-5b07c8fed07a)
+![image](https://github.com/oladejiafo/customer_partern_analysis/assets/69392408/f789db72-5da6-47c2-a909-69c3c297c4e4)
 
 ![image](https://github.com/oladejiafo/customer_partern_analysis/assets/69392408/841e6fd3-6974-4702-8d4a-ca2e44cd0902)
 
